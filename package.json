@@ -1,6 +1,7 @@
 {
   "devDependencies": {
     "@playwright/test": "^1.39.0",
-    "@types/jest": "^29.5.5"
+    "@types/jest": "^29.5.5",
+    "xunit-viewer": "^10.5.0"
   }
 }
